@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HardeepGurwara
-- 🌱 I’m currently learning react again. 
+- 🌱 Getting back into this game 01/06/2023. 
+- ❤️️ One step at a time. 
 
 
 <!---
